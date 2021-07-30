@@ -1,0 +1,102 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-07-2021, 18:59:38
+    Author     : Intr4Snak3
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,400;1,700&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+table {
+    font-size: 1.2em;
+    width: 20%;
+}
+
+#tables {
+    border-collapse: collapse;
+    width: 25%;
+}
+
+#tables td, #tables th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#tables tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+#tables tr:hover {background-color: #ddd;}
+
+#tables th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+input {
+    width: 100%;
+    font-size: 1.2em;
+}
+
+.lst_vacia{
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 1.3em;
+}
+
+button {
+    font-size: 1.3em;
+    margin: 0.8em;
+    padding: 1em;
+    width: 20%;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 1em;
+}
+
+.btn{
+    transition: 0.2s;
+}
+
+.btn:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+#btnIngresar{
+    margin: 0.8em;
+    padding: 1em;
+    width: 20%;
+    cursor: pointer;
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+#btnIngresar:hover{
+    opacity: 0.9;
+}
+
+#btnVolver{
+    background-color: #FF0D00;
+    color: white;
+}
+
+#btnVolver:hover{
+    opacity: 0.8;
+}

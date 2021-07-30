@@ -1,0 +1,16 @@
+com\mycompany\flavio_jara_r_proyectojpa\Servlets\ListarCategoriaServlet.class
+com\mycompany\flavio_jara_r_proyectojpa\entidades\Pieza.class
+com\mycompany\flavio_jara_r_proyectojpa\ejb\AbstractFacade.class
+com\mycompany\flavio_jara_r_proyectojpa\Servlets\ListarProveedorServlet.class
+com\mycompany\flavio_jara_r_proyectojpa\entidades\Categoria.class
+com\mycompany\flavio_jara_r_proyectojpa\entidades\Categoria_.class
+com\mycompany\flavio_jara_r_proyectojpa\Servlets\RegistroProveedorServlet.class
+com\mycompany\flavio_jara_r_proyectojpa\Servlets\ListarPiezaServlet.class
+com\mycompany\flavio_jara_r_proyectojpa\ejb\ProveedorFacade.class
+com\mycompany\flavio_jara_r_proyectojpa\Servlets\RegistroCategoriaServlet.class
+com\mycompany\flavio_jara_r_proyectojpa\Servlets\RegistroPiezaServlet.class
+com\mycompany\flavio_jara_r_proyectojpa\entidades\Pieza_.class
+com\mycompany\flavio_jara_r_proyectojpa\entidades\Proveedor_.class
+com\mycompany\flavio_jara_r_proyectojpa\ejb\PiezaFacade.class
+com\mycompany\flavio_jara_r_proyectojpa\ejb\CategoriaFacade.class
+com\mycompany\flavio_jara_r_proyectojpa\entidades\Proveedor.class
